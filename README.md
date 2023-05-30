@@ -8,7 +8,7 @@
 
 # About the Project <a name="1"/>
 ![](images/kmeans.png) <br/>
-This is a Pytorch implementation of the paper  "[Correlation Networks for Extreme Multi-label Text Classification](https://www.semanticscholar.org/paper/Correlation-Networks-for-Extreme-Multi-label-Text-Xun-Jha/2528e161a0e2d4bdb2b0482ec5866a3914d0758b)" by *Guangxu Xun, Kishlay Jha, Jianhui Sun, Aidong Zhang*.
+This is a Python implementation of the paper  "[Correlation Networks for Extreme Multi-label Text Classification](https://www.semanticscholar.org/paper/Correlation-Networks-for-Extreme-Multi-label-Text-Xun-Jha/2528e161a0e2d4bdb2b0482ec5866a3914d0758b)" by *Guangxu Xun, Kishlay Jha, Jianhui Sun, Aidong Zhang*.
 
 This project develops the **Correlation Networks** (_CorNet_) architecture for the **extreme multi-label text classification** (_XMTC_) task, where the objective is to tag an input text sequence with the most relevant subset of labels from an extremely large label set. XMTC can be found in many real-world applications, such as document tagging and product annotation.
 
